@@ -2,6 +2,10 @@ export default {
     default: "en",
     languages: [
         // remove the languages you don't need, reorder them, or add your own
+	{
+            locale: "be",
+            name: "বাঙালি",
+	},
         {
             locale: "cs",
             name: "Czech"
